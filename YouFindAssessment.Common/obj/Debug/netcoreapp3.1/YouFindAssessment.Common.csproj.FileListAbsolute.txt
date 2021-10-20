@@ -1,0 +1,9 @@
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.Common\bin\Debug\netcoreapp3.1\YouFindAssessment.Common.deps.json
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.Common\bin\Debug\netcoreapp3.1\YouFindAssessment.Common.dll
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.Common\bin\Debug\netcoreapp3.1\YouFindAssessment.Common.pdb
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.Common\obj\Debug\netcoreapp3.1\YouFindAssessment.Common.csprojAssemblyReference.cache
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.Common\obj\Debug\netcoreapp3.1\YouFindAssessment.Common.AssemblyInfoInputs.cache
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.Common\obj\Debug\netcoreapp3.1\YouFindAssessment.Common.AssemblyInfo.cs
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.Common\obj\Debug\netcoreapp3.1\YouFindAssessment.Common.csproj.CoreCompileInputs.cache
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.Common\obj\Debug\netcoreapp3.1\YouFindAssessment.Common.dll
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.Common\obj\Debug\netcoreapp3.1\YouFindAssessment.Common.pdb

@@ -1,0 +1,12 @@
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.BusinessLogic\bin\Debug\netcoreapp3.1\YouFindAssessment.BusinessLogic.deps.json
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.BusinessLogic\bin\Debug\netcoreapp3.1\YouFindAssessment.BusinessLogic.dll
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.BusinessLogic\obj\Debug\netcoreapp3.1\YouFindAssessment.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.BusinessLogic\obj\Debug\netcoreapp3.1\YouFindAssessment.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.BusinessLogic\obj\Debug\netcoreapp3.1\YouFindAssessment.BusinessLogic.AssemblyInfo.cs
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.BusinessLogic\bin\Debug\netcoreapp3.1\YouFindAssessment.BusinessLogic.pdb
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.BusinessLogic\bin\Debug\netcoreapp3.1\YouFindAssessment.Common.dll
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.BusinessLogic\bin\Debug\netcoreapp3.1\YouFindAssessment.Common.pdb
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.BusinessLogic\obj\Debug\netcoreapp3.1\YouFindAssessment.BusinessLogic.csproj.CopyComplete
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.BusinessLogic\obj\Debug\netcoreapp3.1\YouFindAssessment.BusinessLogic.dll
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.BusinessLogic\obj\Debug\netcoreapp3.1\YouFindAssessment.BusinessLogic.pdb
+C:\Users\samuelbabalola\source\repos\YouFindAssessment\YouFindAssessment.BusinessLogic\obj\Debug\netcoreapp3.1\YouFindAssessment.BusinessLogic.csproj.CoreCompileInputs.cache
